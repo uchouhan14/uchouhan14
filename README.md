@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Data Analytics and AWS cloud Foundations.  
   
 
-- ✍🏼 I post educational content on [StudyRecon](https://studyrecon.com/target="_blank").  
+- ✍🏼 I post educational content on [StudyRecon](https://studyrecon.com/).  
   
 
 - ⚡ Fun fact: I am huge Marvel 🔨 and Harry⚡ Potter Fan🐍.  
