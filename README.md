@@ -9,7 +9,7 @@
 - 🔭 I’m working on [Music Genre Classification System](https://github.com/utkarshchouhan).  
   
 
-- 🌱 I’m currently learning Data Analytics and AWS cloud Foundations.  
+- 🌱 I’m currently learning Data Analytics and GoLang.  
   
 
 - ✍🏼 I post educational content on [StudyRecon](https://studyrecon.com/).  
