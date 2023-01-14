@@ -91,9 +91,10 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=utkarshchouhan&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>  
 
-<div align="center"> 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=utkarshchouhan)](https://git.io/streak-stats)
-</div> 
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=utkarshchouhan"/></a>
+</p>
+
 
 <br/>  
 
