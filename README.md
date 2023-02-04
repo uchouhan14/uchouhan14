@@ -15,7 +15,7 @@
 - ✍🏼 I post educational content on [StudyRecon](https://studyrecon.com/).  
   
 
-- ⚡ Fun fact: I am huge Marvel 🔨 and Harry⚡ Potter Fan🐍  
+- ⚡ Fun fact: I am huge Marvel 🔨 and Harry⚡ Potter Fan🐍.  
   
 
 <br/>  
