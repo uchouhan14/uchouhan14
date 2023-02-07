@@ -117,4 +117,4 @@
 <br />
 
 ----
-<div align="center"> MADE WITH ❤️ IN 🇮🇳</div>
+<div align="center"> MADE WITH ❤️ IN 🇮.🇳</div>
