@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://imgur.com/gallery/hello-rRgUJ" align="center" style="width: 100%" />
 </div>  
   
 
@@ -92,7 +92,7 @@
 </div>  
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=utkarshchouhan"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=uchouhan14"/></a>
 </p>
 
 
@@ -107,7 +107,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=utkarshchouhan&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=uchouhan14&&style=flat-square" align="center" />
 </div>  
   
 
