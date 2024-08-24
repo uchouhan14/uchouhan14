@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://imgur.com/gallery/hello-rRgUJ" align="center" style="width: 100%" />
+<img src="https://private-user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ1MTA4MzcsIm5iZiI6MTcyNDUxMDUzNywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTUwNjgtOTkzMzcwYWYtMTFmNC00OGU3LTllMGQtZTViNzljMmU3ODkwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODI0VDE0NDIxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA5Y2FjNzM4YzA1ZDE0MTc0ZDkwMDg1YjE1M2U1ZjI3ZWZlYjA1ODVjNzM2OTVlZGU2ODYxNDY4N2UwYTg0YzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.qA6QhIG8TYhd03WaQwXSHUqIeFHQlPoDm4sY8KxEy-Y" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Utkarsh, a data science enthusiast, who also takes interest in the cloud 👨‍💻, I am a junior year B.Tech student. 🙂</div>  
+### <div align="center">I'm Utkarsh, a data science enthusiast, who also takes an interest in the cloud 👨‍💻, I am a junior year B.Tech student. 🙂</div>  
   
 
 - 🔭 I’m working on [Music Genre Classification System](https://github.com/utkarshchouhan).  
@@ -102,7 +102,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=u9lmpep9chwo7dc5tbut9eury&cover_image=true&theme=default" /></div>  
+<div align="center">[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=u9lmpep9chwo7dc5tbut9eury&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=u9lmpep9chwo7dc5tbut9eury&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]]</div>  
 
 <br/>  
 
