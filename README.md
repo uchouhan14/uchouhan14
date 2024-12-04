@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Utkarsh, a data science enthusiast, who also takes an interest in the cloud 👨‍💻, I am a junior year B.Tech student. 🙂</div>  
+### <div align="center">I'm Utkarsh, a computer science enthusiast, who also takes an interest in the cloud 👨‍💻🙂</div>  
   
 
 - 🔭 I’m working on [Music Genre Classification System](https://github.com/utkarshchouhan).  
